@@ -12,6 +12,8 @@
 		690308B725225C5A00694635 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 690308B625225C5A00694635 /* Assets.xcassets */; };
 		690308BA25225C5A00694635 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 690308B925225C5A00694635 /* Preview Assets.xcassets */; };
 		690308BD25225C5A00694635 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 690308BB25225C5A00694635 /* LaunchScreen.storyboard */; };
+		69E4C45B2524CC2B002F59FF /* Screenshot01.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 69E4C45A2524CC2B002F59FF /* Screenshot01.jpeg */; };
+		69E4C45F2524CCD1002F59FF /* Screenshot02.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 69E4C45E2524CCD1002F59FF /* Screenshot02.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		690308B925225C5A00694635 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		690308BC25225C5A00694635 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		690308BE25225C5A00694635 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69E4C45A2524CC2B002F59FF /* Screenshot01.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Screenshot01.jpeg; sourceTree = "<group>"; };
+		69E4C45E2524CCD1002F59FF /* Screenshot02.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Screenshot02.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,11 +59,12 @@
 			isa = PBXGroup;
 			children = (
 				690308B025225C5A00694635 /* AppDelegate.swift */,
-				690308B225225C5A00694635 /* ContentView.swift */,
 				690308B625225C5A00694635 /* Assets.xcassets */,
-				690308BB25225C5A00694635 /* LaunchScreen.storyboard */,
+				690308B225225C5A00694635 /* ContentView.swift */,
 				690308BE25225C5A00694635 /* Info.plist */,
+				690308BB25225C5A00694635 /* LaunchScreen.storyboard */,
 				690308B825225C5A00694635 /* Preview Content */,
+				69E4C4592524CC1E002F59FF /* Screenshots */,
 			);
 			path = "Reality Glasses 2020";
 			sourceTree = "<group>";
@@ -70,6 +75,15 @@
 				690308B925225C5A00694635 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		69E4C4592524CC1E002F59FF /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				69E4C45A2524CC2B002F59FF /* Screenshot01.jpeg */,
+				69E4C45E2524CCD1002F59FF /* Screenshot02.jpeg */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,8 +143,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69E4C45B2524CC2B002F59FF /* Screenshot01.jpeg in Resources */,
 				690308BD25225C5A00694635 /* LaunchScreen.storyboard in Resources */,
 				690308BA25225C5A00694635 /* Preview Assets.xcassets in Resources */,
+				69E4C45F2524CCD1002F59FF /* Screenshot02.jpeg in Resources */,
 				690308B725225C5A00694635 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
