@@ -10,4 +10,4 @@ Eye glasses fit for Moscow Digital Academy students.
 
 ## Acknowledgements
 
-[Man With Glasses And Shirt free icon](https://www.flaticon.com/free-icon/man-with-glasses-and-shirt_74274) made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://flaticon.com)
+![Man with Glasses and Shirt icon](https://github.com/dbystruev/Reality-Glasses-2020/blob/master/Reality%20Glasses%202020/Assets.xcassets/AppIcon.appiconset/50.png?raw=true) [Man With Glasses And Shirt free icon](https://www.flaticon.com/free-icon/man-with-glasses-and-shirt_74274) made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://flaticon.com)
